@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [//]: # (<p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/></p>)
 <br />
-<p align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Parth+Panchal;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Tech+Lover"/></p>
+<p align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%696969&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Parth+Panchal;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Tech+Lover"/></p>
 
 [![Linkedin: Parth Panchal](https://img.shields.io/badge/-Parth_Panchal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-panchal-687682195/)](https://www.linkedin.com/in/parth-panchal-687682195/)
 [![GitHub followers](https://img.shields.io/github/followers/parthp2107?label=Follow&style=social)](https://github.com/parthp2107)
