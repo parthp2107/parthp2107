@@ -58,12 +58,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### **Recent Activity :zap:**
 
 <!--START_SECTION:activity-->   
-1. ❌ Reopened PR [#9450](https://github.com/open-metadata/OpenMetadata/pull/9450) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#9565](https://github.com/open-metadata/OpenMetadata/pull/9565) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 2. ❌ Closed PR [#9450](https://github.com/open-metadata/OpenMetadata/pull/9450) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#5](https://github.com/parthp2107/OpenMetadata/pull/5) in [parthp2107/OpenMetadata](https://github.com/parthp2107/OpenMetadata)
-4. 💪 Opened PR [#9450](https://github.com/open-metadata/OpenMetadata/pull/9450) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#9440](https://github.com/open-metadata/OpenMetadata/pull/9440) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#9412](https://github.com/open-metadata/OpenMetadata/pull/9412) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❌ Reopened PR [#9450](https://github.com/open-metadata/OpenMetadata/pull/9450) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❌ Closed PR [#9450](https://github.com/open-metadata/OpenMetadata/pull/9450) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#5](https://github.com/parthp2107/OpenMetadata/pull/5) in [parthp2107/OpenMetadata](https://github.com/parthp2107/OpenMetadata)
+6. 💪 Opened PR [#9450](https://github.com/open-metadata/OpenMetadata/pull/9450) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. 💪 Opened PR [#8476](https://github.com/open-metadata/OpenMetadata/pull/8476) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 8. 💪 Opened PR [#8454](https://github.com/open-metadata/OpenMetadata/pull/8454) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 9. 💪 Opened PR [#7683](https://github.com/open-metadata/OpenMetadata/pull/7683) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
