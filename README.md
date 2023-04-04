@@ -58,12 +58,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### **Recent Activity :zap:**
 
 <!--START_SECTION:activity-->   
-1. 💪 Opened PR [#10671](https://github.com/open-metadata/OpenMetadata/pull/10671) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#10641](https://github.com/open-metadata/OpenMetadata/pull/10641) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#10297](https://github.com/open-metadata/OpenMetadata/pull/10297) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#10252](https://github.com/open-metadata/OpenMetadata/pull/10252) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#10146](https://github.com/open-metadata/OpenMetadata/pull/10146) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#9805](https://github.com/open-metadata/OpenMetadata/pull/9805) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗️ Opened issue [#142](https://github.com/pingidentity/ldapsdk/issues/142) in [pingidentity/ldapsdk](https://github.com/pingidentity/ldapsdk)
+2. 💪 Opened PR [#10671](https://github.com/open-metadata/OpenMetadata/pull/10671) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#10641](https://github.com/open-metadata/OpenMetadata/pull/10641) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#10297](https://github.com/open-metadata/OpenMetadata/pull/10297) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#10252](https://github.com/open-metadata/OpenMetadata/pull/10252) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 💪 Opened PR [#10146](https://github.com/open-metadata/OpenMetadata/pull/10146) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. ❌ Closed PR [#5](https://github.com/parthp2107/OpenMetadata/pull/5) in [parthp2107/OpenMetadata](https://github.com/parthp2107/OpenMetadata)
 8. 💪 Opened PR [#9668](https://github.com/open-metadata/OpenMetadata/pull/9668) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 9. 🗣 Commented on [#7353](https://github.com/open-metadata/OpenMetadata/issues/7353) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
